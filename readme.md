@@ -1,3 +1,6 @@
+## Introduction
+This is a site created for a university (IOBM) assignment.
+
 ## Technologies Used
 
 - **HTML5** - Semantic structure with proper tags (header, nav, main, section, footer)
