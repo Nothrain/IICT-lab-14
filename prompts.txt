@@ -1,0 +1,96 @@
+AI PROMPTS USED FOR CONTENT GENERATION
+==========================================
+
+Project: Savory Haven Restaurant Website
+Date: December 2024
+
+---
+
+PROMPT 1: Business Brand Identity
+Question: "Create a name and brand identity for an upscale fine dining restaurant that specializes in fusion cuisine with locally-sourced ingredients. The restaurant should feel elegant, warm, and welcoming. Include a tagline."
+
+AI Response Used:
+- Restaurant Name: "Savory Haven"
+- Tagline: "Where Every Meal Tells a Story"
+- Brand Concept: A destination that combines traditional culinary techniques with modern innovation, emphasizing the story behind each ingredient and dish.
+
+---
+
+PROMPT 2: About Section Content
+Question: "Write two compelling paragraphs for the 'About Us' section of an upscale restaurant website. The restaurant opened in 2015, has an award-winning chef, uses locally-sourced ingredients, and combines traditional techniques with modern innovation. Make it warm and inviting."
+
+AI Response Used:
+"At Savory Haven, we believe dining is an experience that engages all the senses. Established in 2015, our restaurant has become a beloved destination for food enthusiasts seeking authentic flavors and exceptional service.
+
+Our award-winning chef combines traditional techniques with modern innovation, using only the finest locally-sourced ingredients to create unforgettable culinary masterpieces."
+
+---
+
+PROMPT 3: Menu Item Descriptions - Appetizers
+Question: "Create three upscale appetizer menu items for a fine dining restaurant. Each should include: dish name, price ($12-18), and a one-sentence description highlighting premium ingredients. Focus on sophisticated, seasonal ingredients."
+
+AI Response Used:
+1. Truffle Bruschetta - $14 - "Artisan bread topped with wild mushrooms, truffle oil, and aged parmesan"
+2. Seared Scallops - $18 - "Pan-seared scallops with citrus beurre blanc and microgreens"
+3. Caprese Salad - $12 - "Fresh mozzarella, heirloom tomatoes, basil, and balsamic reduction"
+
+---
+
+PROMPT 4: Menu Item Descriptions - Main Courses
+Question: "Create three main course dishes for an upscale restaurant menu with prices between $26-42. Include seafood, beef, and vegetarian options. Each description should be one sentence and emphasize quality ingredients and preparation methods."
+
+AI Response Used:
+1. Herb-Crusted Salmon - $32 - "Atlantic salmon with herb crust, roasted vegetables, and lemon butter sauce"
+2. Beef Tenderloin - $42 - "8oz grass-fed beef with truffle mashed potatoes and red wine reduction"
+3. Mushroom Risotto - $26 - "Creamy arborio rice with wild mushrooms, parmesan, and white truffle oil"
+
+---
+
+PROMPT 5: Menu Item Descriptions - Desserts
+Question: "Create three elegant dessert menu items for a fine dining restaurant, priced $9-11. Include classic options that appeal to sophisticated diners."
+
+AI Response Used:
+1. Chocolate Lava Cake - $10 - "Warm chocolate cake with molten center, vanilla ice cream"
+2. Crème Brûlée - $9 - "Classic vanilla custard with caramelized sugar crust"
+3. Tiramisu - $11 - "Traditional Italian dessert with espresso-soaked ladyfingers"
+
+---
+
+PROMPT 6: Restaurant Features/Values
+Question: "Create three short feature highlights for a restaurant that emphasize fresh ingredients, expert chefs, and elegant ambiance. Each should have a title (2-3 words) and a brief subtitle (4-6 words)."
+
+AI Response Used:
+1. Fresh Ingredients - "Sourced daily from local farms"
+2. Expert Chefs - "Trained in world-class kitchens"
+3. Elegant Ambiance - "Perfect for any occasion"
+
+---
+
+PROMPT 7: Contact Information
+Question: "Create realistic contact details for an upscale restaurant in New York City including: street address, phone number, email, and operating hours. The restaurant should be closed on Mondays."
+
+AI Response Used:
+- Address: 123 Gourmet Street, Culinary District, New York, NY 10001
+- Phone: (555) 123-4567
+- Email: info@savoryhaven.com
+- Hours: Tuesday - Sunday: 5:00 PM - 11:00 PM / Monday: Closed
+
+---
+
+PROMPT 8: Hero Section Content
+Question: "Write a welcoming hero section headline and subheadline for a fine dining restaurant website. The headline should be inviting and memorable, and the subheadline should emphasize the dining experience."
+
+AI Response Used:
+- Headline: "Welcome to Savory Haven"
+- Subheadline: "Where Every Meal Tells a Story"
+
+---
+
+NOTES ON PROMPT ENGINEERING TECHNIQUES USED:
+1. Specificity: Each prompt included specific details (price ranges, number of items, word counts)
+2. Context: Provided restaurant type, target audience, and brand positioning
+3. Constraints: Set clear parameters for tone, length, and format
+4. Examples: When needed, specified format (e.g., "Title - Price - Description")
+5. Iteration: Refined prompts to get more precise, usable content
+
+These prompts demonstrate effective AI content generation for web development projects.
