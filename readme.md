@@ -1,6 +1,8 @@
 ## Introduction
 This is a site created for a university (IOBM) assignment.
 
+The live demo for this repo can be found [here](https://nothrain.github.io/IICT-lab-14/)
+
 ## Technologies Used
 
 - **HTML5** - Semantic structure with proper tags (header, nav, main, section, footer)
